@@ -1,0 +1,2 @@
+rootProject.name = "open-e-commute"
+include ':app'
